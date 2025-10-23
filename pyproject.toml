@@ -1,0 +1,15 @@
+[project]
+name = "btc-forecasting"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "joblib>=1.5.2",
+    "matplotlib>=3.10.7",
+    "numpy>=2.2.6",
+    "optuna>=4.5.0",
+    "pandas>=2.3.3",
+    "scikit-learn>=1.7.2",
+    "yfinance>=0.2.66",
+]
